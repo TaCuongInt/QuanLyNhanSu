@@ -1,0 +1,14 @@
+C:\Users\Giang\Desktop\QLNS\DTO\bin\Debug\DTO.exe
+C:\Users\Giang\Desktop\QLNS\DTO\bin\Debug\DTO.pdb
+C:\Users\Giang\Desktop\QLNS\DTO\obj\x86\Debug\DTO.Properties.Resources.resources
+C:\Users\Giang\Desktop\QLNS\DTO\obj\x86\Debug\DTO.csproj.GenerateResource.Cache
+C:\Users\Giang\Desktop\QLNS\DTO\obj\x86\Debug\DTO.exe
+C:\Users\Giang\Desktop\QLNS\DTO\obj\x86\Debug\DTO.pdb
+F:\Programmes\Windows\C#\QuanLyNhanSu\DTO\bin\Debug\DTO.exe
+F:\Programmes\Windows\C#\QuanLyNhanSu\DTO\bin\Debug\DTO.pdb
+F:\Programmes\Windows\C#\QuanLyNhanSu\DTO\obj\x86\Debug\DTO.csprojAssemblyReference.cache
+F:\Programmes\Windows\C#\QuanLyNhanSu\DTO\obj\x86\Debug\DTO.Properties.Resources.resources
+F:\Programmes\Windows\C#\QuanLyNhanSu\DTO\obj\x86\Debug\DTO.csproj.GenerateResource.cache
+F:\Programmes\Windows\C#\QuanLyNhanSu\DTO\obj\x86\Debug\DTO.csproj.CoreCompileInputs.cache
+F:\Programmes\Windows\C#\QuanLyNhanSu\DTO\obj\x86\Debug\DTO.exe
+F:\Programmes\Windows\C#\QuanLyNhanSu\DTO\obj\x86\Debug\DTO.pdb
